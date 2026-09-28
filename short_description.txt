@@ -1,0 +1,1 @@
+Sales orders, inventory & invoices for Tally-run shops — works offline.

@@ -1,0 +1,30 @@
+GroSquare turns your TallyPrime data into a salesperson's phone app — so your field team can check customers, inventory, and invoices, and book sales orders on the spot, even with no internet at all.
+
+TallyPrime stays your single source of truth for accounting. GroSquare simply puts it in your pocket: customer ledgers, stock levels, and past invoices sync automatically from the shop's office PC to every phone on your team, and any order booked in the field flows back into Tally the same way — no manual re-entry, no emailing lists back and forth.
+
+WHY SHOPS RUNNING TALLY USE GROSQUARE
+
+• Built for the field, not the office. Salespeople, owners, managers, accountants and purchase managers each get the view and permissions they need.
+• Works fully offline. Visit a customer with no signal, place the order anyway — it queues on the phone and syncs the moment you're back online.
+• Always in sync with Tally. A background service on your office PC keeps customers, inventory and invoices flowing between TallyPrime and the app automatically, several times a day.
+• One place for the whole sales cycle. Look up a customer's outstanding balance, check what's in stock, build a sales order, and generate a GST-ready tax invoice — without leaving the app.
+• Multi-shop, multi-role. Every shop's data is kept completely separate, and each teammate only sees what their role allows.
+
+WHAT YOU CAN DO
+
+- Browse customers and their ledger balances, synced straight from Tally
+- Check live stock levels and godown-wise inventory
+- Create sales orders in the field, offline, with automatic GST calculation
+- Print or share a tax invoice styled like the one Tally itself produces
+- Record payments and see outstanding bills, receivable and payable
+- Track your visits with GPS-tagged field activity
+- See recent invoices pulled straight from Tally
+
+HOW IT WORKS
+
+1. Install the free GroSquare desktop sync service on the shop's office PC (the one running TallyPrime).
+2. Sign in on your phone with the login your shop admin creates for you.
+3. Your customers, inventory and invoices appear automatically — no manual import.
+4. Book orders and record payments from anywhere; they sync into Tally on their own.
+
+GroSquare is a subscription add-on for shops already running TallyPrime — it does not replace Tally, and it does not require your phone to ever connect to your office network. Your books stay exactly where they belong: in Tally.

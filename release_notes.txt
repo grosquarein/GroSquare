@@ -1,0 +1,10 @@
+GroSquare 1.2.0
+
+• Book sales orders in the field — fully offline, synced automatically with TallyPrime once you're back online.
+• Look up customers, credit balances, and live inventory synced straight from Tally.
+• Generate GST-ready tax invoices matching your Tally invoice format.
+• Track outstanding bills, receivable and payable.
+• GPS-tagged visit tracking for field sales activity.
+• Role-based access for Admins, Managers, Salespeople, Accountants and Purchase Managers.
+
+Thanks for using GroSquare — questions or feedback? Reach us from Settings > Help.
